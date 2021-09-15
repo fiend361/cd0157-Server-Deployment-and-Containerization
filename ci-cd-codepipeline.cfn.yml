@@ -38,7 +38,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: fiend361
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
